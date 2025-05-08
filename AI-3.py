@@ -1,3 +1,7 @@
+#Implement Greedy search algorithm for any of the following application:
+#I. Selection Sort
+
+
 '''
 n = int(input("Enter number of jobs: "))
 jobs = []
