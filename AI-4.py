@@ -1,3 +1,6 @@
+# Implement a solution for a Constraint Satisfaction Problem using Branch and Bound and 
+#Backtracking for n-queens problem or a graph coloring problem
+
 # Number of queens
 n=4
 # Matrix
